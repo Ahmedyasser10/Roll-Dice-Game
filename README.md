@@ -46,6 +46,5 @@ The Dice Roll Game is a two-player game where each player takes turns rolling a 
    - The first player to reach a total score of 50 or more wins the game.
 
 ## Technologies Used:
-Html, css and javascript
+ - Html, css and javascript
 
-- This game can be implemented using programming languages like JavaScript, Python, or any other language of your choice.
